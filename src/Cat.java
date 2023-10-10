@@ -1,0 +1,5 @@
+class Cat extends Participant {
+    public Cat(String name) {
+        super(name);
+    }
+}
